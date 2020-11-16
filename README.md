@@ -1,5 +1,8 @@
 # eda_data_munging
-data.info()
-data.sort_values()
-data.describe()
-data.groupby()[].agg()
+learning how to use functions such as
+
+• data.info() \
+• data.sort_values() \
+• data.describe() \
+• data.split() \
+• data.groupby()[].agg() \
