@@ -6,3 +6,5 @@ learning how to use functions such as
 • data.describe() \
 • data.split() \
 • data.groupby()[].agg() \
+• CDF & PDF to view distribution of data by a given dimension
+
